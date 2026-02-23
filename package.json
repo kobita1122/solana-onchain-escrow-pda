@@ -1,0 +1,9 @@
+{
+  "name": "solana-onchain-escrow-pda",
+  "version": "1.0.0",
+  "description": "Solana PDA-based escrow program",
+  "dependencies": {
+    "@solana/web3.js": "^1.89.1",
+    "@coral-xyz/anchor": "^0.29.0"
+  }
+}
